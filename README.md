@@ -3,11 +3,6 @@
 Bem-vindo ao repositório do meu primeiro site desenvolvido com Flask! 
 Este projeto foi criado para consolidar meus conhecimentos em desenvolvimento web com Python, Flask, Bootstrap e Banco de Dados.
 
-## 🔗 Acesse o projeto online
-
-O site está hospedado e pode ser acessado pelo seguinte link:
-👉 [Meu Site](https://sitedev-production.up.railway.app/)
-
 ## 🛠 Tecnologias Utilizadas
 
 - **Python** com Flask para o back-end
